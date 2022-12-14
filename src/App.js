@@ -1,11 +1,12 @@
 import './App.css';
-import Htmlform from './Htmlform';
+import Form from './Form/Form';
+
 
 
 function App() {
   return (
    <>
-    <Htmlform/>
+    <Form/>
    </>
   );
 }
